@@ -6,6 +6,7 @@ huhe xD <br>
 * cd HP
 * ./HP.sh
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-cara menjalankan <br>
-buat wordlist target.txt < isi dengan IP target mu <br>
-dan buat sebuah pesan dalam betuk pdf > msg.pdf < pesanmu <br>
+cara menjalankan 
+buat wordlist target.txt < isi dengan IP target mu 
+dan buat sebuah pesan dalam betuk pdf > msg.pdf < pesanmu 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
